@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.example.com/another-page.php");
+header("Location: http://h4rg0d.github.io/index.html");
 exit();
 ?>
